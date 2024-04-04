@@ -2,10 +2,10 @@
 import { useRouter } from "next/navigation";
 
 const BarTools = () => {
-  const router = useRouter();
+ 
   return (
-    <nav class="navbar">
-    <ul class="navbar-list">
+    <nav className="navbar">
+    <ul className="navbar-list">
     <li><a href="#">Trang chủ</a></li>
     <li><a href="#">Cộng đồng</a></li>
     <li><a href="#">Kết nối</a></li>
