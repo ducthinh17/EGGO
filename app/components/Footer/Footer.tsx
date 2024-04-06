@@ -105,7 +105,7 @@ const Footer = () => {
               <div className="icon-div">
                 <a
                   className="hover:opacity-50 transition duration-500 flex items-center"
-                  href="https://Tiktok.com/Eggo"
+                  href="https://www.tiktok.com/search?q=eggo"
                   target="_blank"
                   rel="noreferrer"
                   style={{
