@@ -154,7 +154,7 @@ const Footer = () => {
                     textDecoration: "none",
                   }}
                   className="hover:opacity-50 transition duration-500"
-                  href="https://eggo.vn"
+                  href="https://eggo.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
